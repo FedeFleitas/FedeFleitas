@@ -12,6 +12,9 @@
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55" >
 <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg"  height="55" width="55" >
 <a href="https://github.com/piacz"><img src="https://camo.githubusercontent.com/28e93a1bfe79f991ddcd35f7833e8537f0e7b31aa326dfbe98fe7eb538b40b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f657870726573735f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363532382e706e67"  height="55" width="55" >
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedefleitas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fedefleitas" /></p>
+
 
 <!--
 **FedeFleitas/FedeFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
