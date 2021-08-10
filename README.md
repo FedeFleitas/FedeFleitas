@@ -1,6 +1,7 @@
 # Hi there, I'm Federico! 👋
+---
 
-# My Skills:
+## My Skills:
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
 <a href="https://es.reactjs.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
 <a href="https://es.redux.js.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55" ></a>
