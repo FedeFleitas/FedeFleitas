@@ -46,6 +46,10 @@
     <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedefleitas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fedefleitas" /></p>
     <br>
+    
+---
+    
+  ## My Projects 
 
 ---
   ## Contact Me!
