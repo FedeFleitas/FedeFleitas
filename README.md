@@ -61,9 +61,9 @@
     <br>
       It is a website capable of showing various breeds of dogs with their respective characteristics. 
     <br>       
-      ♦ It makes queries to an API and it gives us the possibility to store our own breeds in the Database.
+      ♦ It makes requests to an API and gives us the possibility to store our own breeds created in the Database.
     <br>
-      ♦ They can be filtered by the user by weight, alphabetically and by their storage in a database or api.
+      ♦ They can be filtered by the user alphabetically, by weight and by their storage.
     <br>
   </h4>
   <h5>
