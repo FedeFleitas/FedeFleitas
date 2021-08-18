@@ -49,10 +49,15 @@
     
 ---
     
-  ## My Projects 
+<h2>My Projects</h2> 
     
-    ####comming soon
-
+<div align='center'>
+  <h2>Oh My Dog!</h2>
+  <h3>Individual Project - Henry Bootcamp</h3>
+  </hr>
+  <a href="https://github.com/FedeFleitas/Oh-My-Dog"><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/Github-ohmydog.png" alt="oh my dog! Full-stack project"/></a>
+</div>
+    
 ---
   ## Contact Me!
     
