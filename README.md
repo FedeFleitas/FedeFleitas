@@ -92,6 +92,7 @@
 ---
   ## Contact Me!
     
+    
   <div> 
      <h5> Connect with me on LinkedIn: </h5>
      <a href="https://www.linkedin.com/in/federicofleitas/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn" width='30'></a>
