@@ -88,6 +88,46 @@
   </hr>
   <a href="https://github.com/FedeFleitas/Oh-My-Dog"><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/Github-ohmydog.png" alt="oh my dog! Full-stack project"/></a>
 </div>
+  <br> 
+    
+---
+    
+<div>
+  <div align='center' >
+   <a href="" ><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/On-The-Rocks.jpg" alt="On The Rocks Logo"  height="120" align='center' /></a>
+   </div>
+  <h3 align='center'>Final Project - Henry Bootcamp</h3>
+
+  <div>
+  <h4>Español</h4>
+  <h4>Desarrollo grupal de un e-commerce sobre bebidas alcohólicas premium, a través del stack PERN.</h4>
+<h4>
+Features:
+    <br>
+• Panel de administrador
+    <br>
+• Pasarela de pagos
+    <br>
+• Diseño web responsivo
+    <br>
+• Carrito de compras
+    <br>
+• Chatbot
+    <br>
+• Sistema de fidelización de clientes
+    <br>
+• Búsqueda en tiempo real
+    <br>
+y más.
+    </h4>
+<br>
+Tecnologías aplicadas: Javascript, CSS, HTML5, React, Redux, MaterialUI, Node, Express, Sequelize, PostgreSQL, Multer, Passport, MercadoPago, entre otros.
+<br>
+Deploy: https://on-the-rocks-orcin.vercel.app/
+ <br>
+</div>
+  </hr>
+</div>
     
 ---
   ## Contact Me!
