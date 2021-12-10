@@ -139,7 +139,7 @@ Deploy: https://on-the-rocks-orcin.vercel.app/
   </div> 
   <div>
     <h5>Send me an email: </h5>
-    <a href="mailto:solamentefedee@gmail.com"> <img src="https://cdn2.iconfinder.com/data/icons/free-1/128/Gmail__google__mail_latter_email-512.png" alt="Email" width='30'></a>
+    <a href="mailto:solamentefedee@gmail.com"> <img src="https://cdn2.iconfinder.com/data/icons/free-1/128/Gmail__google__mail_latter_email-512.png" alt="Email icon" width='30'></a>
 </div> 
 <!--
 **FedeFleitas/FedeFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
